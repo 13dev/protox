@@ -1,0 +1,11 @@
+{
+  "deps": [
+    {
+      "url": "https://github.com/13dev/protox.git",
+      "provider": "github",
+      "local_path": "protox",
+      "remote_path": "remove_path",
+      "private": true
+    }
+  ]
+}
